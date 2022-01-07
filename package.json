@@ -1,0 +1,25 @@
+{
+  "name": "messwertverwaltung",
+  "version": "1.0.0",
+  "description": "Aufgabenstellung der HTL Weiz, bei der eine Messwertverwaltung verwirklicht werden soll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hampoelz",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1",
+    "node-localstorage": "^2.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hampoelz/Messwertverwaltung.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hampoelz/Messwertverwaltung/issues"
+  },
+  "homepage": "https://github.com/hampoelz/Messwertverwaltung#readme"
+}
